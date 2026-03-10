@@ -17,6 +17,6 @@
     },
     "default_title": "BlackRoad Command Center"
   },
-  "permissions": [],
+  "permissions": ["tabs"],
   "host_permissions": []
 }

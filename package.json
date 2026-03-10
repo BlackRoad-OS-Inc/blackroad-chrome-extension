@@ -1,0 +1,16 @@
+{
+  "name": "blackroad-chrome-extension",
+  "version": "1.0.0",
+  "description": "BlackRoad Command Center - Quick access to the BlackRoad empire from any browser tab",
+  "private": true,
+  "scripts": {
+    "test": "jest --testPathPattern=tests/"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
