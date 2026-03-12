@@ -1,5 +1,11 @@
 # BlackRoad Command Center - Chrome Extension
 
+[![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4.svg)](https://developer.chrome.com/docs/extensions/mv3/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E.svg)](https://developer.mozilla.org)
+[![Service Worker](https://img.shields.io/badge/background-service_worker-FF6B2B.svg)](https://blackroad.io)
+
+
+
 > Quick access to your entire BlackRoad empire from any browser tab!
 
 ## Features
