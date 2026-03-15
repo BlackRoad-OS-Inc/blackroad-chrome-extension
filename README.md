@@ -1,69 +1,41 @@
-# BlackRoad Command Center - Chrome Extension
+<div align="center">
 
-[![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4.svg)](https://developer.chrome.com/docs/extensions/mv3/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E.svg)](https://developer.mozilla.org)
-[![Service Worker](https://img.shields.io/badge/background-service_worker-FF6B2B.svg)](https://blackroad.io)
+<img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
 
+# blackroad-chrome-extension
 
+**BlackRoad Command Center — Chrome extension with fleet health monitoring, service search, keyboard shortcuts, and background service worker for real-time Pi node status.**
 
-> Quick access to your entire BlackRoad empire from any browser tab!
+[![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
+[![Edge AI](https://img.shields.io/badge/Edge_AI-52_TOPS-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/BlackRoad-OS-Inc)
 
-## Features
+</div>
 
-- **30K Agent Dashboard** - Direct link to the agent visualization
-- **GitHub Quick Access** - All 15 organizations at your fingertips
-- **Cloudflare Integration** - Pages, Workers, D1 quick links
-- **Live Service Status** - See what's running at a glance
-- **Search** - Find any service, repo, or org instantly
-- **Keyboard Shortcuts**:
-  - `Cmd/Ctrl + G` - Open GitHub
-  - `Cmd/Ctrl + C` - Open Cloudflare
-  - `Cmd/Ctrl + A` - Open 30K Agents
-
-## Installation
-
-### Method 1: Load Unpacked (Developer Mode)
-
-1. Open Chrome and go to `chrome://extensions/`
-2. Enable **Developer mode** (toggle in top right)
-3. Click **Load unpacked**
-4. Select the `blackroad-chrome-extension` folder
-5. The extension icon will appear in your toolbar!
-
-### Method 2: Pack Extension
-
-1. Go to `chrome://extensions/`
-2. Enable Developer mode
-3. Click **Pack extension**
-4. Select this folder
-5. Share the `.crx` file
-
-## Files
-
-```
-blackroad-chrome-extension/
-├── manifest.json      # Extension configuration
-├── popup.html         # Main popup UI
-├── popup.css          # BlackRoad brand styling
-├── popup.js           # Search & interactions
-├── icons/
-│   ├── icon16.png     # Toolbar icon
-│   ├── icon48.png     # Extension page
-│   └── icon128.png    # Chrome Web Store
-└── README.md          # This file
-```
-
-## Brand Colors
-
-- Hot Pink: `#FF1D6C`
-- Amber: `#F5A623`
-- Violet: `#9C27B0`
-- Electric Blue: `#2979FF`
-
-## Kind Light Mode ☀️
-
-This extension was built with kind light energy!
+<div align="center">
+<sub>Part of the <a href="https://blackroad.io">BlackRoad OS</a> ecosystem — sovereign edge AI infrastructure</sub>
+</div>
 
 ---
 
-Made with ☀️ by Zeus | BlackRoad OS, Inc.
+## Overview
+
+BlackRoad Command Center — Chrome extension with fleet health monitoring, service search, keyboard shortcuts, and background service worker for real-time Pi node status.
+
+## License
+
+**Proprietary** — Copyright © 2024–2026 [BlackRoad OS, Inc.](https://blackroad.io) All rights reserved.
+
+Founder & CEO: **Alexa Louise Amundson** · Delaware C-Corp
+
+See [LICENSE](./LICENSE) for full terms.
+
+---
+
+<div align="center">
+
+**BlackRoad OS — Pave Tomorrow.**
+
+[blackroad.io](https://blackroad.io) · [GitHub](https://github.com/BlackRoad-OS-Inc) · [Brand](https://brand.blackroad.io)
+
+</div>
