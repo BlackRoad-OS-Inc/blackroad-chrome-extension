@@ -1,5 +1,13 @@
 # blackroad-chrome-extension
 
+> BlackRoad Command Center — Chrome extension with fleet health monitoring, service search, keyboard shortcuts, and background service worker for real-time Pi node status.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# blackroad-chrome-extension
+
 BlackRoad Command Center — Chrome extension with fleet health monitoring, service search, keyboard shortcuts, and background service worker for real-time Pi node status.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
